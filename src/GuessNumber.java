@@ -41,5 +41,7 @@ public class GuessNumber {
         String a;
     int ab;
     int g;
+    byte l;
+
 
     }
