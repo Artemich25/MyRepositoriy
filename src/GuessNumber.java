@@ -38,4 +38,8 @@ public class GuessNumber {
                 System.out.println("Rand num is: " + randInt);
 
         }
+        String a;
+    int ab;
+    int g;
+
     }
