@@ -30,5 +30,7 @@ public class Mage {
             }
         }
     }
+    String a;
+    int asd;
 }
 
